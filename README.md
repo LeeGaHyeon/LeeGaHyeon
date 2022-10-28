@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=GaHyeon's%20GitHub&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Ga-hyeon's%20GitHub&fontSize=70&animation=scaleIn)
+
+<div align='center'>
 
 <h1 align="Left">Hi 👋, I'm Ga-hyeon Lee </h1>
   
@@ -20,3 +22,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeGaHyeon&layout=compact&theme=tokyonight)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeGaHyeon)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
