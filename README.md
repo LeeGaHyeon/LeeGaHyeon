@@ -19,6 +19,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeGaHyeon&layout=compact&theme=tokyonight)
   
 <h3 align="center">Award and Experience</h3>
+
+🌱 2022.11 한림대학교 소프트웨어융합대학 SW WEEK SW 미래기술 특허 아이디어 경진대회 수상 
+ 
+🌱 2022.11 한림대학교 소프트웨어융합대학 SW WEEK SW창업 아이디어 경진대회 수상 
   
 🌱 2022.10 정보처리학회 ACK 논문 ACCEPT (ICT융합부문)
   
