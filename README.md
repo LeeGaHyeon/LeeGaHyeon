@@ -21,7 +21,7 @@
   
 <h3 align="center">Award and Experience</h3>
   
-🌱 2023.01~02 LG Aimers 
+🌱 2023.01 LG Aimers 
   
 🌱 2023.01~02 한림대학교 동계방학 소프트웨어학부 전공 멘토링 멘토
   
