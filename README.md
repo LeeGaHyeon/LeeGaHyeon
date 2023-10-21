@@ -87,7 +87,4 @@
   
 📫 2019 한림대학교 소프트웨어융합대학 SW빌리지 누구나 즐기는 딥러닝 수료
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeGaHyeon)](https://github.com/anuraghazra/github-readme-stats)
-  
 </div>
