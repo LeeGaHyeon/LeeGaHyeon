@@ -41,7 +41,7 @@
 
 🌱 2023.01~2024.04 Clinical Data Warehouse: Endoscopic Gastrectomy Study.
 
-<h3 align="center">Award and Experience</h3>
+<h3 align="center">Awards and Experiences</h3>
 
 🌱 2024.11 Clinical Data Utilization Contest, Excellence Award, Hallym University Medical Center. 
 
