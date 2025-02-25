@@ -8,7 +8,7 @@
   
 <h3 align="center">A Student from Hallym University</h3>
 
-📫  I’m currently learning **Deep Learning, Image processing, Android App, Arduino**
+📫  I’m currently learning **Deep Learning, Image processing, Autonomous driving, driver identification**
 
 📫 How to reach me **gh.lee.hallym@gmail.com**
 
@@ -18,9 +18,33 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
   
+
+<h3 align="center">Publications</h3>
   
+🌱 2023.09~current A Multimodal Dataset and Fusion Framework for Enhanced Driver Identification, TII (under review)
+  
+🌱 2024.10~ A Study on Driver Identification Using CAN-bus and Smartphone Sensor Data Fusion, ACK Conference
+
+🌱 2022.10~ A Study on Deep learning-based Clothing Image Classification For the development of smart fashion industry, ACK Conference
+
+<h3 align="center">Patents</h3>
+  
+🌱 2025.01 Electronic Device for Identifying a Driver Based on Multi-Modal Data Including Various Types of Driving-Related Data
+
+🌱 2024.10 Electronic Device for Acquiring Filtered Images Excluding Identifiable Driver Features Other Than Driving Patterns for Training an AI Model to Identify Drivers Based on Driving Patterns.
+
+🌱 2024.10  Method of Operating a Portable Terminal Device for Identifying the Occurrence of Driving Events Based on Sensor Data Sensed During Driving.
+
+<h3 align="center">Projects</h3>
+  
+🌱 2024.09 Development of a Deep Learning-Based Diagnostic Model for Differentiating Gallbladder and Cholecystitis.
+
+🌱 2023.01~2024.04 Clinical Data Warehouse: Endoscopic Gastrectomy Study.
+
 <h3 align="center">Award and Experience</h3>
-  
+
+🌱 2024.11 Clinical Data Utilization Contest, Excellence Award, Hallym University Medical Center. 
+
 🌱 2023.01~02 LG Aimers 
   
 🌱 2023.01~02 한림대학교 동계방학 소프트웨어학부 전공 멘토링 멘토
@@ -62,8 +86,11 @@
 🌱 2018 한림대학교 소프트웨어융합대학 서공제 수상 (앱개발, 학술부문)
   
 <h3 align="center">Education</h3>
-  
-📫 2018~2022 한림대학교 소프트웨어융합대학 빅데이터 주전공, 스마트IOT 복수전공   
+📫 2025~ 한림대학교 컴퓨터공학과 연구원   
+
+📫 2023~2025 한림대학교 컴퓨터공학과 석사과정   
+
+📫 2018~2022 한림대학교 소프트웨어융합대학 빅데이터 주전공, 스마트IOT 복수전공  
   
 📫 2022 (주)이씨마이너 빅데이터 분석 교육 수료  
   
