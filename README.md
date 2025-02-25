@@ -6,7 +6,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeGaHyeon&count_bg=%2354C6CA&title_bg=%236D736D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
-<h3 align="center">A Student from Hallym University</h3>
+<h3 align="center">A Researcher from Hallym University</h3>
 
 📫  I’m currently learning **Deep Learning, Image processing, Autonomous driving, driver identification**
 
